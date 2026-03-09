@@ -1,7 +1,1 @@
-body {
-    background-color: red;
-}
-
-:root {
-    background-color: #F8F9FA;
-}
+@import 'bootstrap/dist/css/bootstrap.css';

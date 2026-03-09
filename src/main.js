@@ -2,7 +2,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 
 import './assets/css/main.css'
-import 'bulma/css/bulma.css'
+import 'bootstrap'
 
 
 createApp(App).mount('#app')
